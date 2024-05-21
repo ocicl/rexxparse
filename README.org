@@ -1,0 +1,9 @@
+* rexxparse
+
+A string parsing tool inspired by the REXX PARSE construct.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/dtenny/rexxparse.git |
+| commit  | 2cad99e                                     |
+| systems | rexxparse                                   |
+|---------+---------------------------------------------|
