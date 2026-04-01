@@ -7,3 +7,4 @@ A string parsing tool inspired by the REXX PARSE construct.
 | commit  | 2cad99e                                     |
 | systems | rexxparse                                   |
 |---------+---------------------------------------------|
+ 
